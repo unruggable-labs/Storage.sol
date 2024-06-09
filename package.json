@@ -1,0 +1,11 @@
+{
+	"type": "module",
+	"scripts": {
+		"test": "node test/test.js",
+		"build": "forge build --force"
+	},
+	"devDependencies": {
+		"@adraffy/blocksmith": "^0.0.22",
+		"ethers": "^6.13.0"
+	}
+}
