@@ -5,7 +5,7 @@
 		"build": "forge build --force"
 	},
 	"devDependencies": {
-		"@adraffy/blocksmith": "^0.0.22",
+		"@adraffy/blocksmith": "^0.0.24",
 		"ethers": "^6.13.1"
 	}
 }
